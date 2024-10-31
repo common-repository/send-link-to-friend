@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Send link to friend\n"
+"POT-Creation-Date: 2019-10-27 14:02+0800\n"
+"PO-Revision-Date: 2019-10-27 14:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../send-link-to-friend.php:20 ../send-link-to-friend.php:21
+#: ../send-link-to-friend.php:30 ../send-link-to-friend.php:306
+#: ../send-link-to-friend.php:307
+msgid "Send link to friend"
+msgstr ""
+
+#: ../send-link-to-friend.php:46
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../send-link-to-friend.php:72
+msgid "Submit"
+msgstr ""
+
+#: ../send-link-to-friend.php:73
+msgid "Help"
+msgstr ""
+
+#: ../send-link-to-friend.php:79
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../send-link-to-friend.php:80
+msgid "click here"
+msgstr ""
+
+#: ../send-link-to-friend.php:109
+msgid "Sender of email"
+msgstr ""
+
+#: ../send-link-to-friend.php:115
+msgid ""
+"Choose a FROM name and FROM email address for all emails from this plugin."
+msgstr ""
+
+#: ../send-link-to-friend.php:120
+msgid "Mail subject"
+msgstr ""
+
+#: ../send-link-to-friend.php:125
+msgid "Please enter the subject for send link mail."
+msgstr ""
+
+#: ../send-link-to-friend.php:130
+msgid "Mail content"
+msgstr ""
+
+#: ../send-link-to-friend.php:135
+msgid "Please enter the content for send link mail."
+msgstr ""
+
+#: ../send-link-to-friend.php:165 ../send-link-to-friend.php:395
+msgid "Display on home page"
+msgstr ""
+
+#: ../send-link-to-friend.php:172
+msgid ""
+"Do you want to show this form in home page? this option is only for PHP code."
+msgstr ""
+
+#: ../send-link-to-friend.php:177 ../send-link-to-friend.php:402
+msgid "Display on WP posts"
+msgstr ""
+
+#: ../send-link-to-friend.php:184
+msgid ""
+"Do you want to show this form on wp post? this option is only for PHP code."
+msgstr ""
+
+#: ../send-link-to-friend.php:189 ../send-link-to-friend.php:409
+msgid "Display on WP pages"
+msgstr ""
+
+#: ../send-link-to-friend.php:196
+msgid ""
+"Do you want to show this form on wp page? this option is only for PHP code."
+msgstr ""
+
+#: ../send-link-to-friend.php:237
+msgid "reCaptcha option"
+msgstr ""
+
+#: ../send-link-to-friend.php:244
+msgid "Add reCaptcha in the send link form."
+msgstr ""
+
+#: ../send-link-to-friend.php:249
+msgid "reCaptcha Secret key"
+msgstr ""
+
+#: ../send-link-to-friend.php:253
+msgid "Please enter your secret key for reCaptcha."
+msgstr ""
+
+#: ../send-link-to-friend.php:258
+msgid "reCaptcha Site key"
+msgstr ""
+
+#: ../send-link-to-friend.php:262
+msgid "Please enter your site key for reCaptcha."
+msgstr ""
+
+#: ../send-link-to-friend.php:286
+msgid "Successful message"
+msgstr ""
+
+#: ../send-link-to-friend.php:292
+msgid "Message to display after form submission successfully."
+msgstr ""
+
+#: ../send-link-to-friend.php:387
+msgid "Widget title"
+msgstr ""
+
+#: ../send-link-to-friend.php:391
+msgid "Short description for your send link form."
+msgstr ""
+
+#: ../send-link-to-friend.php:538
+msgid "Friend Email"
+msgstr ""
+
+#: ../send-link-to-friend.php:542
+msgid "Enter your message"
+msgstr ""
+
+#: ../send-link-to-friend.php:563 ../send-link-to-friend.php:708
+msgid "Please enter email address."
+msgstr ""
+
+#: ../send-link-to-friend.php:564 ../send-link-to-friend.php:709
+msgid "Email address seems invalid."
+msgstr ""
+
+#: ../send-link-to-friend.php:565 ../send-link-to-friend.php:710
+msgid "Oops.. Unexpected error occurred."
+msgstr ""
+
+#: ../send-link-to-friend.php:566 ../send-link-to-friend.php:711
+msgid "Message sent successfully to your friend email."
+msgstr ""
+
+#: ../send-link-to-friend.php:567 ../send-link-to-friend.php:712
+msgid "Robot verification failed, please try again."
+msgstr ""
+
+#: ../send-link-to-friend.php:568 ../send-link-to-friend.php:713
+msgid "Robot verification failed, invalid key."
+msgstr ""

@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Send link to friend\n"
+"POT-Creation-Date: 2019-10-27 14:02+0800\n"
+"PO-Revision-Date: 2019-10-27 14:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../send-link-to-friend.php:20 ../send-link-to-friend.php:21
+#: ../send-link-to-friend.php:30 ../send-link-to-friend.php:306
+#: ../send-link-to-friend.php:307
+msgid "Send link to friend"
+msgstr "Wyślij do przyjaciela"
+
+#: ../send-link-to-friend.php:46
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../send-link-to-friend.php:72
+msgid "Submit"
+msgstr "Wyślij"
+
+#: ../send-link-to-friend.php:73
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../send-link-to-friend.php:79
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../send-link-to-friend.php:80
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../send-link-to-friend.php:109
+msgid "Sender of email"
+msgstr ""
+
+#: ../send-link-to-friend.php:115
+msgid ""
+"Choose a FROM name and FROM email address for all emails from this plugin."
+msgstr ""
+
+#: ../send-link-to-friend.php:120
+#, fuzzy
+msgid "Mail subject"
+msgstr "Temat e-mail"
+
+#: ../send-link-to-friend.php:125
+#, fuzzy
+msgid "Please enter the subject for send link mail."
+msgstr "Proszę wpisać temat wiadomości."
+
+#: ../send-link-to-friend.php:130
+msgid "Mail content"
+msgstr "Zawartość maila"
+
+#: ../send-link-to-friend.php:135
+#, fuzzy
+msgid "Please enter the content for send link mail."
+msgstr "Proszę wprowadzić treść e-mail."
+
+#: ../send-link-to-friend.php:165 ../send-link-to-friend.php:395
+msgid "Display on home page"
+msgstr "Wyświetlaj na stronie głównej"
+
+#: ../send-link-to-friend.php:172
+#, fuzzy
+msgid ""
+"Do you want to show this form in home page? this option is only for PHP code."
+msgstr "Czy chcesz pokazać widżet tytuł?."
+
+#: ../send-link-to-friend.php:177 ../send-link-to-friend.php:402
+#, fuzzy
+msgid "Display on WP posts"
+msgstr "Wystawa na posty"
+
+#: ../send-link-to-friend.php:184
+msgid ""
+"Do you want to show this form on wp post? this option is only for PHP code."
+msgstr ""
+
+#: ../send-link-to-friend.php:189 ../send-link-to-friend.php:409
+#, fuzzy
+msgid "Display on WP pages"
+msgstr "Wyświetlanie na stronach"
+
+#: ../send-link-to-friend.php:196
+#, fuzzy
+msgid ""
+"Do you want to show this form on wp page? this option is only for PHP code."
+msgstr "Czy chcesz pokazać ten widget na wszystkich stronach wp?"
+
+#: ../send-link-to-friend.php:237
+#, fuzzy
+msgid "reCaptcha option"
+msgstr "Opcja wyświetlania losowych"
+
+#: ../send-link-to-friend.php:244
+msgid "Add reCaptcha in the send link form."
+msgstr ""
+
+#: ../send-link-to-friend.php:249
+msgid "reCaptcha Secret key"
+msgstr ""
+
+#: ../send-link-to-friend.php:253
+#, fuzzy
+msgid "Please enter your secret key for reCaptcha."
+msgstr "Wpisz swój opis."
+
+#: ../send-link-to-friend.php:258
+msgid "reCaptcha Site key"
+msgstr ""
+
+#: ../send-link-to-friend.php:262
+#, fuzzy
+msgid "Please enter your site key for reCaptcha."
+msgstr "Wpisz swój opis."
+
+#: ../send-link-to-friend.php:286
+msgid "Successful message"
+msgstr ""
+
+#: ../send-link-to-friend.php:292
+msgid "Message to display after form submission successfully."
+msgstr ""
+
+#: ../send-link-to-friend.php:387
+msgid "Widget title"
+msgstr "Tytuł widgetu"
+
+#: ../send-link-to-friend.php:391
+msgid "Short description for your send link form."
+msgstr ""
+
+#: ../send-link-to-friend.php:538
+msgid "Friend Email"
+msgstr "E-mail *"
+
+#: ../send-link-to-friend.php:542
+msgid "Enter your message"
+msgstr "Wpisz wiadomość"
+
+#: ../send-link-to-friend.php:563 ../send-link-to-friend.php:708
+#, fuzzy
+msgid "Please enter email address."
+msgstr "Proszę wprowadzić adres e-mail"
+
+#: ../send-link-to-friend.php:564 ../send-link-to-friend.php:709
+msgid "Email address seems invalid."
+msgstr ""
+
+#: ../send-link-to-friend.php:565 ../send-link-to-friend.php:710
+msgid "Oops.. Unexpected error occurred."
+msgstr ""
+
+#: ../send-link-to-friend.php:566 ../send-link-to-friend.php:711
+msgid "Message sent successfully to your friend email."
+msgstr ""
+
+#: ../send-link-to-friend.php:567 ../send-link-to-friend.php:712
+msgid "Robot verification failed, please try again."
+msgstr ""
+
+#: ../send-link-to-friend.php:568 ../send-link-to-friend.php:713
+msgid "Robot verification failed, invalid key."
+msgstr ""
+
+#~ msgid "Plugin setting"
+#~ msgstr "Ustawienia"
+
+#~ msgid "Please enter your widget title."
+#~ msgstr "Podaj widget tytuł."
+
+#~ msgid "Small description"
+#~ msgstr "Opis"
+
+#~ msgid "Email Details"
+#~ msgstr "Szczegóły obrazu"
+
+#~ msgid "From email name"
+#~ msgstr "Wpisz nazwę e-mail."
+
+#~ msgid "Please enter email from name."
+#~ msgstr "Podaj e-mail z nazwą."
+
+#~ msgid "From email address"
+#~ msgstr "E-mail od"
+
+#~ msgid "Do you want to show this widget in all posts?"
+#~ msgstr "Czy chcesz pokazać ten widget we wszystkich postów?"
+
+#~ msgid "Security Check (Spam Stopper)"
+#~ msgstr "Kontrola bezpieczeństwa (Spam korek)"
+
+#~ msgid "Home URL"
+#~ msgstr "Adres URL strony startowej"
+
+#~ msgid ""
+#~ "This home URL is for security check. We can submit the form only on this "
+#~ "website. "
+#~ msgstr ""
+#~ "Ta strona URL jest do kontroli bezpieczeństwa. Możemy przesłać formularz "
+#~ "tylko na tej stronie."
